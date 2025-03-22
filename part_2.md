@@ -1,2 +1,3 @@
-add file
-edit file
+* add file
+* edit file
+* finish file
